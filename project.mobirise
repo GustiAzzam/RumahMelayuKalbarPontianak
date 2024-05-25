@@ -258,7 +258,7 @@
     ],
     "uniqCompNum": 20,
     "imageResize": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "mnylwacrms",
